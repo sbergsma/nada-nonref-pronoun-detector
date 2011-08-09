@@ -1,0 +1,2 @@
+nadaCommon.o: nadaCommon.cpp nadaCommon.h
+nadaIt.o: nadaIt.cpp nadaCommon.h
