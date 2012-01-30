@@ -8,6 +8,7 @@
 
 #include <stdio.h>   // For sprintf
 #include <stdlib.h>  // For all the exit()'s called by the mains
+#include <stdint.h>  // Where uint32_t and its friends live on some platforms
 #include <tr1/unordered_map>   // For storing the weights, n-grams, etc.
 #include <vector>
 #include <string>
